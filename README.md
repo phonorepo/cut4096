@@ -1,2 +1,3 @@
 # cut4096
-cut first 4096 byte from file(s) and save copy to output folder
+drag and drop file(s) onto the cut4096.exe (or use as command line argument)
+it will cut the first 4096 byte from file(s) and save copy of the modified file(s) to output subfolder
